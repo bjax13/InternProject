@@ -67,3 +67,12 @@ p{
   width: 45vw;
   height: 80vh;
 }
+.mainFooterNavBar{
+  border-top-color: #ccc;
+  border-top-style: solid;
+  border-top-width: 1px;
+}
+.footerNavBar{
+  display: flex;
+  justify-content: space-around;
+}
