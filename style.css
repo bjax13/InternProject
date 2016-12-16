@@ -22,10 +22,9 @@ h2,h3{
   line-height: 3.4rem;
 }
 h5,h6{
-    font-size: 16.8rem;
+    font-size: 1.68rem;
     line-height: 2.1rem;
 }
-
 h1{
     font-size: 3.84rem;
     line-height: 4.6rem;
@@ -34,9 +33,37 @@ h2{
     color: #000;
 }
 h4{
-     font-size: 19.8rem;
-     line-height: 2.4em;
+     font-size: 1.98rem;
+     line-height: 2.4rem;
  }
 h5{
     color: #fff;
+}
+p{
+    font-size: 1.207rem;
+    line-height: 1.4rem;
+}
+
+.mainNavBar{
+  border-bottom-color: #ccc;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.navBar{
+  display: flex;
+  justify-content: space-between;
+}
+.newInfo{
+  display: flex;
+  justify-content: space-around;
+}
+.newInfoForm{
+  background: #ccc;
+  width: 45vw;
+  height: 80vh;
+}
+.triangleViews{
+  background: #ccc;
+  width: 45vw;
+  height: 80vh;
 }
